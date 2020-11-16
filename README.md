@@ -4,7 +4,7 @@
 
 
 
-[splah](https://github.com/leotilt/Projeto-Happy-NlW/blob/main/happy.png)
+![splah](https://github.com/leotilt/Projeto-Happy-NlW/blob/main/happy.png)
 
 ## Tecnologias
 
