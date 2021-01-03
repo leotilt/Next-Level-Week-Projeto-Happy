@@ -1,6 +1,19 @@
-# Happy Web
+<h1 align="center">
+    <img alt="Proffy" src=".github/logo.svg" height="100px" />
+    <br>Next Level Week #3<br/>
+    Node.js | ReactJS | React Native
+</h1>
 
-<p>Site feito na semana NLW em parceria com a Rocketseat</p>
+<p align="center">
+    <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#tecnologias">Tecnologias Utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#web">Versão Web</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+
+</p>
+
+<p align="center">
+    <img alt="Design do Projeto" width="650px" src=".github/laptop-happy.png" />
+<p>
 
 <a id="sobre"></a>
 
@@ -14,24 +27,16 @@ Esta aplicação foi desenvolvida durante a **Next Level Week #3**, projeto da [
 
 <a id="tecnologias"></a>
 
-
-
-
-![splah](https://github.com/leotilt/Projeto-Happy-NlW/blob/main/happy.png)
-
-## Tecnologias
-
-As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
-
-- [HTML](https://devdocs.io/html/)
-- [CSS](https://devdocs.io/css/)
-- [Javascript](https://devdocs.io/javascript/)
-- [Node](https://nodejs.org/en/)
+# ⚙ Tecnologias Utilizadas
 - [Express](https://expressjs.com/)
+- [Node.js](https://nodejs.org/en/)
+- [NPM](https://www.npmjs.com/)
+- [Mapbox](https://www.mapbox.com/)
 
 
-<br>
+<a id="web"></a>
 
-<p> Mais informações em </p>
+# 💻 Versão Web
+Caso esteja curioso para saber como é a versão **Web** do **Happy**, o layout está disponivel no [Figma](https://www.figma.com/file/CNekmEBviDyzPPk6JthpxV/Happy-Web-(Copy)?node-id=0%3A1).
 
-- [Figma](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web?node-id=0%3A1)
+
