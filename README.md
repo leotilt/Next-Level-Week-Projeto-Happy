@@ -1,7 +1,7 @@
 <h1 align="center">
     <img alt="Proffy" src="https://github.com/leotilt/Projeto-Happy-NlW/blob/main/happy.png" height="600px" />
     <br>Next Level Week #3<br/>
-    Node.js | ReactJS | React Native
+    Node.js | Nunjukds | JavaScript | 
 </h1>
 
 <p align="center">
@@ -28,6 +28,7 @@ Esta aplicação foi desenvolvida durante a **Next Level Week #3**, projeto da [
 <a id="tecnologias"></a>
 
 # ⚙ Tecnologias Utilizadas
+- [Javascript](https://expressjs.com/)
 - [Express](https://expressjs.com/)
 - [Node.js](https://nodejs.org/en/)
 - [NPM](https://www.npmjs.com/)
