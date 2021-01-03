@@ -1,7 +1,7 @@
 <h1 align="center">
     <img alt="Proffy" src="https://github.com/leotilt/Projeto-Happy-NlW/blob/main/happy.png" height="600px" />
     <br>Next Level Week #3<br/>
-    Node.js | Nunjukds | JavaScript | 
+    Node.js | Nunjunks | JavaScript | 
 </h1>
 
 <p align="center">
